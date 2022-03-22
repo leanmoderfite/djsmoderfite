@@ -1,0 +1,3 @@
+The copyright license of the language specification. This license covers the actual text that describes the definition of the language. The licenses can vary between languages, but they typically do not allow modification of the text and sometimes do not even allow copying (especially if the organization that publishes the specification tries to make money from selling copies).
+
+The copyright license of the language's implementation. This license covers the program that interprets/compiles programs written in the language or renders a document. In the case of HTML/CSS/Javascript, this would be the browser and Javascript engine. Any (software) copyright license can be used here, varying between closed source, copyleft and permissive open source.
